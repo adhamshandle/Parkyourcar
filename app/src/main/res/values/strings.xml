@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parkyourcar</string>
+    <string name="title_activity_maps_activityforclient">Map</string>
+    <string name="title_activity_maps_activityforcompany">Map</string>
+</resources>
